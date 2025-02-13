@@ -19,10 +19,10 @@ Run the script using:
 ```bash
 python3 15.py
 ```
-When executed, the script will print a raw API response similar to the following:
-```
-Raw API Response: {'fiscal_year': 2025, 'latest_action_date': '2025-02-10T00:00:00', 'toptier_code': '015', 'transaction_count': 32317, 'obligations': 3247688297.8, 'messages': []}
-```
+When executed, the script will print a raw API response similar to the following, and you should see: 
+
+<img width="707" alt="Screenshot 2025-02-12 at 10 42 56 PM" src="https://github.com/user-attachments/assets/863274aa-d3b1-4753-bec1-310b66087459" />
+
 This output changes depending on the latest available data from the API.
 
 ## Notes
